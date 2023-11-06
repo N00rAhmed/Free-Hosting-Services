@@ -1,0 +1,10 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-info{
+    text-align: center;
+    width: 1000px;
+}

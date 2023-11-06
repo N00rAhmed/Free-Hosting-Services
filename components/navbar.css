@@ -20,12 +20,12 @@
   .card {
     display: flex;
     justify-content: center;
-    list-style: none;
+    /* list-style: none; */
     /* margin: 0;
     padding: 0; */
   }
   
-  .card a {
+  /* .card a {
     margin: 0 10px;
   }
   
@@ -33,10 +33,11 @@
     text-decoration: none;
     color: #333;
     font-weight: bold;
-  }
+  } */
   
-a{
-    margin-right: 5px;
+p{
+    /* margin-right: 5px; */
+    margin-right: 10px;
 }
 
   @media (max-width: 600px) {
@@ -51,7 +52,7 @@ a{
       flex-direction: column;
     }
   
-    .card a {
+    .card p {
       margin: 5px 0;
     }
   }

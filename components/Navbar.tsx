@@ -5,9 +5,9 @@ import '../components/navbar.css';
 export default function Navbar() {
   return (
     <div className="links-container">
-        <a><Link href='/'>home</Link></a>
-        <a><Link href='/about'>about</Link></a>
-        <a><Link href='/resources'>resources</Link></a>
+        <a><Link className="card" href='/'>home</Link></a>
+        <a><Link className="card" href='/about'>about</Link></a>
+        <a><Link className="card" href='/resources'>resources</Link></a>
 
     </div>
   )

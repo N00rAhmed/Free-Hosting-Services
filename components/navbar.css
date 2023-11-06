@@ -1,0 +1,7 @@
+.links-container{
+    margin-top: 20%;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+}

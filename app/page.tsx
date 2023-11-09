@@ -1,7 +1,6 @@
 import Navbar from '@/components/Navbar';
 import Link from 'next/link';
 
-
 export default function Home() {
   return (
     <div className='container'>
@@ -20,7 +19,10 @@ export default function Home() {
       </div>
 
       <Link className='button-container' href='/about'><button>About us</button></Link>
-    
+      <Link className='button-container' href='/about'><button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+  About
+</button></Link>
+
     </div>
   )
 }

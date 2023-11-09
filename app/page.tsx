@@ -6,6 +6,8 @@ export default function Home() {
     <div className='container'>
       <Navbar/>
       <h1>Free Hosting Services for devs </h1>
+      <Navbar/>
+
 {/* for tailwind make sure to use single quotoations */}
       {/* <h1 className='text-red-800 bg-blue-900'>
       Hello world!

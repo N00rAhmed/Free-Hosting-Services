@@ -1,12 +1,13 @@
 import Navbar from '@/components/Navbar';
 import Link from 'next/link';
+import '../app/globals.css';
 
 export default function Home() {
   return (
-    <div className='container'>
+    <div>
       <Navbar/>
       <h1>Free Hosting Services for devs </h1>
-      <Navbar/>
+      <br/>
 
 {/* for tailwind make sure to use single quotoations */}
       {/* <h1 className='text-red-800 bg-blue-900'>
@@ -20,7 +21,7 @@ export default function Home() {
           Elevate your creations with our £0 hosting services today!</p>
       </div>
 
-      <Link className='button-container' href='/about'><button>About us</button></Link>
+      {/* <Link className='button-container' href='/about'><button>About us</button></Link> */}
       <Link className='button-container' href='/about'><button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
   About
 </button></Link>

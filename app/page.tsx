@@ -1,4 +1,4 @@
-import Navbar from '@/components/Navbar';
+import Navbar from '@/app/navbar/page';
 import Link from 'next/link';
 import '../app/globals.css';
 
@@ -15,7 +15,7 @@ export default function Home() {
     </h1> */}
 
       <div className='intro-container'>
-        <p className='intro'>Welcome to Free Hosting Services for Devs!
+        <p className='intro'>Welcome to Free Hosting Services for Devs!!!!!!
           Here you will find hosting services without any cost. 
           Whether you&apos;re a seasoned coder or just starting out, our platform provides reliable, secure, and free hosting services. 
           Elevate your creations with our £0 hosting services today!</p>

@@ -1,4 +1,4 @@
-import Navbar from '@/components/Navbar';
+import Navbar from '@/app/navbar/page';
 import '../resources/resources.css';
 
 export default function page() {

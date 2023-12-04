@@ -22,7 +22,12 @@ export default async function page() {
             <li key={index}>
               <a href={item.link} target="_blank"><strong>{item.title}</strong></a>
               <p>{item.content}</p>
-            </li>
+
+              {/* <strong style={{ color: item.title === 'My Title' ? 'red' : 'inherit' }}>
+                  {item.title}
+                </strong> */}
+
+          </li>
           ))}
 
         </ul>

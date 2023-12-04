@@ -1,0 +1,273 @@
+  [
+    {
+        "title": "Netlify",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "Vercel",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "Render.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "GitHub Pages",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "Supabase",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "CockroachDB",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "MongoDB Atlas",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "freemysqlhosting.net",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "freeasphosting.net",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "freesqldatabase.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "freedb.tech",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "surge.sh",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "cyclic.sh",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://fleek.co/hosting/",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://pages.cloudflare.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "w3schools.com/spaces/index.php",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "firebase",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "digitalocean.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "alwaysdata.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://bohr.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://bubble.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://dappling.network",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "awardspace.net",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.drv.tw",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "duckdocs.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://freehostingnoads.net",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://kinsta.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://neocities.org",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://about.readthedocs.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://app.qoddi.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://mdbgo.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://patr.cloud",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.serv00.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://x10hosting.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://byet.host",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.000webhost.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "infinityfree.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://nhost.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://deno.com/deploy",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.microtica.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.back4app.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://pocketbase.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://tiiny.host",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.pythonanywhere.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://planetscale.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.sanity.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://appwrite.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.cyclic.sh",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://deta.space",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://fly.io",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.getgrist.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "https://www.airtable.com",
+        "content": "",
+        "link": ""
+    },
+    {
+        "title": "My Title",
+        "content": "Lorem Ipsum",
+        "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6"
+      },
+      {
+        "title": "New Title",
+        "content": "Number 2 Lorem Ipsum",
+        "link": "https://youtu.be/VUfvRciny_Y?si=cyXI4dS6Ybe8exsT"
+      }
+  
+]

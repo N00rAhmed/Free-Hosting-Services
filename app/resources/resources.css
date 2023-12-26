@@ -2,9 +2,14 @@
     display: flex;
     justify-content: center;
     text-align: center;
+    margin-top: 25px;
 }
 .info{
     width: 55%;
+}
+
+.resource-info{
+  margin-top:35px;
 }
 
 li {
@@ -12,7 +17,8 @@ li {
     background-color: dodgerblue;
     color: white;
     padding: 1rem;
-    height: 4rem;
+    /* height: 4rem; */
+    /* later on set a specific height */
   }
   
  ul {
@@ -22,14 +28,18 @@ li {
     gap: 1rem;
   }
 
-  ul{
+  /* ul{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  }
+  } */
 
-  /* @media (min-width: 600px) {
-    .cards { grid-template-columns: repeat(2, 1fr); }
+  @media (min-width: 600px) {
+    ul { 
+      grid-template-columns: repeat(2, 1fr); 
+    }
   }
   @media (min-width: 900px) {
-    .cards { grid-template-columns: repeat(3, 1fr); }
-  } */
+    ul { 
+      grid-template-columns: repeat(3, 1fr); 
+    }
+  }
   

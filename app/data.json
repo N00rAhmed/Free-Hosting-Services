@@ -1,8 +1,8 @@
   [
     {
         "title": "Netlify",
-        "content": "",
-        "link": ""
+        "content": "Netlify allows you to deploy your web apps using github and npm run build commands. The hosting provider is gives free hosting for client side applications but not server side.",
+        "link": "https://www.netlify.com"
     },
     {
         "title": "Vercel",
@@ -252,22 +252,11 @@
     {
         "title": "https://www.getgrist.com",
         "content": "",
-        "link": ""
+        "link": "https://youtu.be/VUfvRciny_Y?si=cyXI4dS6Ybe8exsT"
     },
     {
         "title": "https://www.airtable.com",
         "content": "",
-        "link": ""
-    },
-    {
-        "title": "My Title",
-        "content": "Lorem Ipsum",
         "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6"
-      },
-      {
-        "title": "New Title",
-        "content": "Number 2 Lorem Ipsum",
-        "link": "https://youtu.be/VUfvRciny_Y?si=cyXI4dS6Ybe8exsT"
-      }
-  
+    }  
 ]

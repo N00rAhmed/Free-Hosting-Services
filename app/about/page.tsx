@@ -6,7 +6,7 @@ export default function about() {
     <div>
       <Navbar/>
       
-      <h1>About</h1>
+      <h1 className="text-lg font-semibold">About</h1>
 
       <div className='about-container'>
         <p className='about-info'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 

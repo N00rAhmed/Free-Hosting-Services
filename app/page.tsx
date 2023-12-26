@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Navbar/>
-      <h1>Free Hosting Services for devs </h1>
+      <h1 className="text-lg font-semibold">Free Hosting Services for devs </h1>
       <br/>
 
 {/* for tailwind make sure to use single quotoations */}

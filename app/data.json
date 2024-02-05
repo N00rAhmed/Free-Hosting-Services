@@ -258,5 +258,13 @@
         "title": "https://www.airtable.com",
         "content": "",
         "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6"
-    }  
+    },    {
+        "title": "turso",
+        "content": "",
+        "link": "https://turso.tech/app"
+    },    {
+        "title": "yugabyte",
+        "content": "",
+        "link": "https://cloud.yugabyte.com"
+    }
 ]

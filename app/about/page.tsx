@@ -9,12 +9,8 @@ export default function about() {
       <h1 className="text-lg font-semibold">About</h1>
 
       <div className='about-container'>
-        <p className='about-info'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-              Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, 
-              when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-              It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
-                Aldus PageMaker including versions of Lorem Ipsum.
+        <p className='about-info'>The development of this website started in October 2023. The main purpose of this initiative is to provide a platform for 
+        sharing knowledge and resources related to hosting web development projects, servers, API's, SQL/NOSQL databases at no cost. 
 
             </p>
       </div>

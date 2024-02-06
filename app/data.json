@@ -6,32 +6,32 @@
     },
     {
         "title": "Vercel",
-        "content": "",
+        "content": "Developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure. It is a popular choice for its user-friendly interface and seamless integration with version control systems, making the deployment process straightforward for developers.",
         "link": ""
     },
     {
         "title": "Render.com",
-        "content": "",
+        "content": "Render is a cloud platform offering easy and cost-effective deployment solutions for web applications, backend services, and databases.",
         "link": ""
     },
     {
         "title": "GitHub Pages",
-        "content": "",
+        "content": "GitHub Pages is a web hosting service integrated with GitHub, allowing users to host static websites directly from their GitHub repositories. It supports HTML, CSS, and JavaScript, making it suitable for showcasing projects, documentation, or personal websites.",
         "link": ""
     },
     {
         "title": "Supabase",
-        "content": "",
+        "content": "Supabase is an open-source backend platform designed to simplify the development of web and mobile applications. It offers a range of services, including a real-time database, authentication, and serverless functions. Developers can leverage Supabase to build scalable and secure applications without managing complex backend infrastructure. The platform supports PostgreSQL, allowing for powerful relational database capabilities.",
         "link": ""
     },
     {
         "title": "CockroachDB",
-        "content": "",
+        "content": "CockroachDB is a distributed SQL database designed for scalability, consistency, and resilience. CockroachDB is compatible with the SQL language, making it familiar to developers who are already accustomed to relational databases. ",
         "link": ""
     },
     {
         "title": "MongoDB Atlas",
-        "content": "",
+        "content": "In summary, MongoDB Atlas is a fully managed, cloud-native database service that simplifies the deployment, scaling, and management of MongoDB databases. It combines flexibility, high availability, security, and compatibility with the MongoDB ecosystem to meet the demands of modern, data-intensive applications.",
         "link": ""
     },
     {

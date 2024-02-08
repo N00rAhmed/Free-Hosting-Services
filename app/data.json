@@ -66,27 +66,27 @@
     },
     {
         "title": "https://fleek.co/hosting/",
-        "content": "",
+        "content": "Fleek offers hosting services, facilitating the deployment and management of websites and applications. Visit their website for more information.",
         "link": ""
     },
     {
         "title": "https://pages.cloudflare.com",
-        "content": "",
+        "content": "Cloudflare Pages is a platform for building and deploying websites. It provides a scalable and secure environment for hosting web projects.",
         "link": ""
     },
     {
         "title": "w3schools.com/spaces/index.php",
-        "content": "",
+        "content": "w3schools Spaces offers web hosting services, providing a platform for hosting and managing web applications. Explore their website for detailed information.",
         "link": ""
     },
     {
         "title": "firebase",
-        "content": "",
+        "content": "Firebase is a comprehensive platform by Google offering various services including hosting, real-time database, authentication, and more to support web and mobile app development.",
         "link": ""
     },
     {
         "title": "digitalocean.com",
-        "content": "",
+        "content": "DigitalOcean is a cloud infrastructure provider, offering services like virtual servers (Droplets), managed databases, and scalable storage solutions. Visit their website for more details.",
         "link": ""
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "title": "https://bubble.io",
-        "content": "",
+        "content": "Bubble is a visual web development platform that allows users to create web applications without coding. Visit their website for details on their services.",
         "link": ""
     },
     {
@@ -111,7 +111,7 @@
     },
     {
         "title": "awardspace.net",
-        "content": "",
+        "content": "AwardSpace provides web hosting services, allowing users to host websites and applications. Further details can be found on their website.",
         "link": ""
     },
     {
@@ -126,22 +126,22 @@
     },
     {
         "title": "https://freehostingnoads.net",
-        "content": "",
+        "content": "FreeHostingNoAds provides free hosting services without displaying ads. Explore their website for more details on their offerings.",
         "link": ""
     },
     {
         "title": "https://kinsta.com",
-        "content": "",
+        "content": "Kinsta is a premium managed WordPress hosting provider, offering high-performance hosting solutions. Visit their website for detailed information.",
         "link": ""
     },
     {
         "title": "https://neocities.org",
-        "content": "",
+        "content": "Neocities is a platform for creating and hosting simple websites. Users can design, host, and share their web projects using Neocities.",
         "link": ""
     },
     {
         "title": "https://about.readthedocs.com",
-        "content": "",
+        "content": "Read the Docs is a documentation hosting platform, providing tools for easy management and publishing of documentation for software projects.",
         "link": ""
     },
     {
@@ -206,31 +206,26 @@
     },
     {
         "title": "https://pocketbase.io",
-        "content": "",
+        "content": "PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.",
         "link": ""
     },
     {
         "title": "https://tiiny.host",
-        "content": "",
+        "content": "Tinny.host is a html hosting  platform that allows you to host 1 website for free using HTML/CSS and Javascript.",
         "link": ""
     },
     {
         "title": "https://www.pythonanywhere.com",
-        "content": "",
+        "content": "PythonAnywhere provides a browser-based Python environment for coding, executing, and hosting applications with features like an interactive console, code editor, file system access, and database support.",
         "link": ""
     },
     {
         "title": "https://planetscale.com",
-        "content": "",
+        "content": "PlanetScale is a MySQL-compatible database that brings you scale, performance, and reliability — without sacrificing developer experience.",
         "link": ""
     },
     {
         "title": "https://www.sanity.io",
-        "content": "",
-        "link": ""
-    },
-    {
-        "title": "https://appwrite.io",
         "content": "",
         "link": ""
     },
@@ -241,30 +236,21 @@
     },
     {
         "title": "https://deta.space",
-        "content": "",
+        "content": "Deta.space is a serverless platform offering hosting services, including features like Deta Base for NoSQL databases and Deta Drive for file storage, enabling developers to build and deploy applications without managing traditional server infrastructure.",
         "link": ""
     },
     {
         "title": "https://fly.io",
-        "content": "",
-        "link": ""
-    },
-    {
-        "title": "https://www.getgrist.com",
-        "content": "",
-        "link": "https://youtu.be/VUfvRciny_Y?si=cyXI4dS6Ybe8exsT"
-    },
-    {
-        "title": "https://www.airtable.com",
-        "content": "",
+        "content": "Fly.io is a global edge computing platform enabling developers to deploy and run applications across a distributed network of servers, optimizing performance and providing features like automatic scaling and global load balancing.",
         "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6"
-    },    {
+    },
+    {
         "title": "turso",
-        "content": "",
+        "content": "Turso is a free sql database hosting platform which provides free hosting for 500 databases. This includes SQLITE, MSSQL etc.",
         "link": "https://turso.tech/app"
     },    {
         "title": "yugabyte",
-        "content": "",
+        "content": "Yugabyte is an open-source distributed database, offering both SQL and NoSQL support with a distributed architecture for high-performance, high-availability, and global-scale deployments.",
         "link": "https://cloud.yugabyte.com"
     }
 ]

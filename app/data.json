@@ -2,255 +2,322 @@
     {
         "title": "Netlify",
         "content": "Netlify allows you to deploy your web apps using github and npm run build commands. The hosting provider is gives free hosting for client side applications but not server side.",
-        "link": "https://www.netlify.com"
+        "link": "https://www.netlify.com",
+        "technologies": "HTML/CSS, React.js, Next.js, View.js"
     },
     {
         "title": "Vercel",
         "content": "Developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure. It is a popular choice for its user-friendly interface and seamless integration with version control systems, making the deployment process straightforward for developers.",
-        "link": ""
+        "link": "",
+        "technologies": "Next.js"
+
     },
     {
         "title": "Render.com",
         "content": "Render is a cloud platform offering easy and cost-effective deployment solutions for web applications, backend services, and databases.",
-        "link": ""
+        "link": "",
+        "technologies": "Node.js/Express.js"
     },
     {
         "title": "GitHub Pages",
         "content": "GitHub Pages is a web hosting service integrated with GitHub, allowing users to host static websites directly from their GitHub repositories. It supports HTML, CSS, and JavaScript, making it suitable for showcasing projects, documentation, or personal websites.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "Supabase",
         "content": "Supabase is an open-source backend platform designed to simplify the development of web and mobile applications. It offers a range of services, including a real-time database, authentication, and serverless functions. Developers can leverage Supabase to build scalable and secure applications without managing complex backend infrastructure. The platform supports PostgreSQL, allowing for powerful relational database capabilities.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "CockroachDB",
         "content": "CockroachDB is a distributed SQL database designed for scalability, consistency, and resilience. CockroachDB is compatible with the SQL language, making it familiar to developers who are already accustomed to relational databases. ",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "MongoDB Atlas",
         "content": "In summary, MongoDB Atlas is a fully managed, cloud-native database service that simplifies the deployment, scaling, and management of MongoDB databases. It combines flexibility, high availability, security, and compatibility with the MongoDB ecosystem to meet the demands of modern, data-intensive applications.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "freemysqlhosting.net",
         "content": "FreeMySQLHosting.net offers free MySQL database hosting with a web-based control panel for easy database management.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "freeasphosting.net",
         "content": "FreeASPHosting.net provides free hosting services tailored for ASP applications, supporting classic ASP and ASP.NET with features like FTP access and database support.",
-        "link": ""
+        "link": "",
+        "technologies": "ASP.NET/ASP.NET Core Web API, SQL Server"
     },
     {
         "title": "freesqldatabase.com",
         "content": "FreeSQLDatabase.com offers free SQL database hosting services, supporting various SQL database systems and allowing users to create, manage, and access databases through a web-based interface.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "freedb.tech",
         "content": "FreeDB.tech appears to provide free database hosting services, allowing users to host databases without specifying the supported database systems. Users likely have the ability to create and manage databases for their applications.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "surge.sh",
         "content": "Surge.sh is a platform facilitating easy deployment of static web content through a command-line interface, known for its simplicity and speed. The service focuses on static files and lacks server-side processing. Users can update content by redeploying with the surge command, and while the basic service is free.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "cyclic.sh",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://fleek.co/hosting/",
         "content": "Fleek offers hosting services, facilitating the deployment and management of websites and applications. Visit their website for more information.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://pages.cloudflare.com",
         "content": "Cloudflare Pages is a platform for building and deploying websites. It provides a scalable and secure environment for hosting web projects.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "w3schools.com/spaces/index.php",
         "content": "w3schools Spaces offers web hosting services, providing a platform for hosting and managing web applications. Explore their website for detailed information.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "firebase",
         "content": "Firebase is a comprehensive platform by Google offering various services including hosting, real-time database, authentication, and more to support web and mobile app development.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "digitalocean.com",
         "content": "DigitalOcean is a cloud infrastructure provider, offering services like virtual servers (Droplets), managed databases, and scalable storage solutions. Visit their website for more details.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "alwaysdata.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://bohr.io",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://bubble.io",
         "content": "Bubble is a visual web development platform that allows users to create web applications without coding. Visit their website for details on their services.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://dappling.network",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "awardspace.net",
         "content": "AwardSpace provides web hosting services, allowing users to host websites and applications. Further details can be found on their website.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.drv.tw",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "duckdocs.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://freehostingnoads.net",
         "content": "FreeHostingNoAds provides free hosting services without displaying ads. Explore their website for more details on their offerings.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://kinsta.com",
         "content": "Kinsta is a premium managed WordPress hosting provider, offering high-performance hosting solutions. Visit their website for detailed information.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://neocities.org",
         "content": "Neocities is a platform for creating and hosting simple websites. Users can design, host, and share their web projects using Neocities.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://about.readthedocs.com",
         "content": "Read the Docs is a documentation hosting platform, providing tools for easy management and publishing of documentation for software projects.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://app.qoddi.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://mdbgo.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://patr.cloud",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.serv00.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://x10hosting.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://byet.host",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.000webhost.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "infinityfree.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://nhost.io",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://deno.com/deploy",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.microtica.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.back4app.com",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://pocketbase.io",
         "content": "PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://tiiny.host",
         "content": "Tinny.host is a html hosting  platform that allows you to host 1 website for free using HTML/CSS and Javascript.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.pythonanywhere.com",
         "content": "PythonAnywhere provides a browser-based Python environment for coding, executing, and hosting applications with features like an interactive console, code editor, file system access, and database support.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://planetscale.com",
         "content": "PlanetScale is a MySQL-compatible database that brings you scale, performance, and reliability — without sacrificing developer experience.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.sanity.io",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://www.cyclic.sh",
         "content": "",
-        "link": ""
+        "link": "",
+        "technologies": ""
+
     },
     {
         "title": "https://deta.space",
         "content": "Deta.space is a serverless platform offering hosting services, including features like Deta Base for NoSQL databases and Deta Drive for file storage, enabling developers to build and deploy applications without managing traditional server infrastructure.",
-        "link": ""
+        "link": "",
+        "technologies": ""
     },
     {
         "title": "https://fly.io",
         "content": "Fly.io is a global edge computing platform enabling developers to deploy and run applications across a distributed network of servers, optimizing performance and providing features like automatic scaling and global load balancing.",
-        "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6"
+        "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6",
+        "technologies": ""
     },
     {
         "title": "turso",
         "content": "Turso is a free sql database hosting platform which provides free hosting for 500 databases. This includes SQLITE, MSSQL etc.",
-        "link": "https://turso.tech/app"
-    },    {
+        "link": "https://turso.tech/app",
+        "technologies": ""
+    },    
+    {
         "title": "yugabyte",
         "content": "Yugabyte is an open-source distributed database, offering both SQL and NoSQL support with a distributed architecture for high-performance, high-availability, and global-scale deployments.",
-        "link": "https://cloud.yugabyte.com"
+        "link": "https://cloud.yugabyte.com",
+        "technologies": ""
+    },
+    {
+        "title": "Costura.Fody",
+        "content": "This is a C# Nuget Package which allows you to embedd all your dll's into a single executable file.",
+        "link": "https://www.youtube.com/watch?v=jeghRQHjnSo",
+        "technologies": "C#, Windows Forms"
+    },
+    {
+        "title": "pyinstaller",
+        "content": "This is a python package which allows you to convert your program into a single executable file for people to use.",
+        "link": "https://www.youtube.com/watch?v=bqNvkAfTvIc",
+        "technologies": "Python"
     }
+
 ]

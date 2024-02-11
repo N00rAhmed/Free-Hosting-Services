@@ -22,31 +22,31 @@
         "title": "GitHub Pages",
         "content": "GitHub Pages is a web hosting service integrated with GitHub, allowing users to host static websites directly from their GitHub repositories. It supports HTML, CSS, and JavaScript, making it suitable for showcasing projects, documentation, or personal websites.",
         "link": "",
-        "technologies": ""
+        "technologies": "HTML/CSS, Javascript"
     },
     {
         "title": "Supabase",
         "content": "Supabase is an open-source backend platform designed to simplify the development of web and mobile applications. It offers a range of services, including a real-time database, authentication, and serverless functions. Developers can leverage Supabase to build scalable and secure applications without managing complex backend infrastructure. The platform supports PostgreSQL, allowing for powerful relational database capabilities.",
         "link": "",
-        "technologies": ""
+        "technologies": "SQL"
     },
     {
         "title": "CockroachDB",
         "content": "CockroachDB is a distributed SQL database designed for scalability, consistency, and resilience. CockroachDB is compatible with the SQL language, making it familiar to developers who are already accustomed to relational databases. ",
         "link": "",
-        "technologies": ""
+        "technologies": "SQL, SQLITE, Postgress"
     },
     {
         "title": "MongoDB Atlas",
         "content": "In summary, MongoDB Atlas is a fully managed, cloud-native database service that simplifies the deployment, scaling, and management of MongoDB databases. It combines flexibility, high availability, security, and compatibility with the MongoDB ecosystem to meet the demands of modern, data-intensive applications.",
         "link": "",
-        "technologies": ""
+        "technologies": "NOSQL"
     },
     {
         "title": "freemysqlhosting.net",
         "content": "FreeMySQLHosting.net offers free MySQL database hosting with a web-based control panel for easy database management.",
         "link": "",
-        "technologies": ""
+        "technologies": "SQL"
     },
     {
         "title": "freeasphosting.net",
@@ -58,7 +58,7 @@
         "title": "freesqldatabase.com",
         "content": "FreeSQLDatabase.com offers free SQL database hosting services, supporting various SQL database systems and allowing users to create, manage, and access databases through a web-based interface.",
         "link": "",
-        "technologies": ""
+        "technologies": "SQL"
     },
     {
         "title": "freedb.tech",
@@ -70,13 +70,7 @@
         "title": "surge.sh",
         "content": "Surge.sh is a platform facilitating easy deployment of static web content through a command-line interface, known for its simplicity and speed. The service focuses on static files and lacks server-side processing. Users can update content by redeploying with the surge command, and while the basic service is free.",
         "link": "",
-        "technologies": ""
-    },
-    {
-        "title": "cyclic.sh",
-        "content": "",
-        "link": "",
-        "technologies": ""
+        "technologies": "HTML/CSS, Javascript"
     },
     {
         "title": "https://fleek.co/hosting/",
@@ -148,7 +142,7 @@
         "title": "duckdocs.com",
         "content": "",
         "link": "",
-        "technologies": ""
+        "technologies": "Documentation"
     },
     {
         "title": "https://freehostingnoads.net",
@@ -172,7 +166,7 @@
         "title": "https://about.readthedocs.com",
         "content": "Read the Docs is a documentation hosting platform, providing tools for easy management and publishing of documentation for software projects.",
         "link": "",
-        "technologies": ""
+        "technologies": "Documentation"
     },
     {
         "title": "https://app.qoddi.com",
@@ -262,13 +256,13 @@
         "title": "https://www.pythonanywhere.com",
         "content": "PythonAnywhere provides a browser-based Python environment for coding, executing, and hosting applications with features like an interactive console, code editor, file system access, and database support.",
         "link": "",
-        "technologies": ""
+        "technologies": "Python"
     },
     {
         "title": "https://planetscale.com",
         "content": "PlanetScale is a MySQL-compatible database that brings you scale, performance, and reliability — without sacrificing developer experience.",
         "link": "",
-        "technologies": ""
+        "technologies": "MySQL"
     },
     {
         "title": "https://www.sanity.io",
@@ -293,13 +287,13 @@
         "title": "https://fly.io",
         "content": "Fly.io is a global edge computing platform enabling developers to deploy and run applications across a distributed network of servers, optimizing performance and providing features like automatic scaling and global load balancing.",
         "link": "https://youtu.be/TCZ2S9wtJv0?si=jZyS-_5f9A2y8Si6",
-        "technologies": ""
+        "technologies": "Python, Laravel, Next.js, Ruby, .NET, Nuxt, JavaScript, Django"
     },
     {
-        "title": "turso",
+        "title": "Turso",
         "content": "Turso is a free sql database hosting platform which provides free hosting for 500 databases. This includes SQLITE, MSSQL etc.",
-        "link": "https://turso.tech/app",
-        "technologies": ""
+        "link": "https://turso.tech/",
+        "technologies": "SQL, SQLITE"
     },    
     {
         "title": "yugabyte",

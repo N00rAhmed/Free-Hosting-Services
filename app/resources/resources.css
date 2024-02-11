@@ -1,3 +1,7 @@
+body{
+  /* background-color: rgb(28, 177, 180); */
+}
+
 .resource-container{
     display: flex;
     justify-content: center;
@@ -8,12 +12,17 @@
     width: 55%;
 }
 
+
 .resource-info{
   margin-top:35px;
 }
 
+a{
+  font-size: 23px;
+}
+
 li {
-    text-align: center;
+    /* text-align: center; */
     background-color: dodgerblue;
     color: white;
     padding: 1rem;

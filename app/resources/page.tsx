@@ -25,14 +25,14 @@ export default async function page() {
             {/* <h3>make sure to check these sites work and are free </h3> */}
             {data.map((item, index) => (
             <li className="transition duration-500 hover:scale-105" key={index}>
-              <a className="hover:text-violet-600" href={item.link} target="_blank"><strong>{item.title}</strong></a>
+              <a className="hover:text-blue-900" href={item.link} target="_blank"><strong>{item.title}</strong></a>
               <br />
               <br />
               <p className="text-justify">{item.content}</p>
               <br />
               <p className="font-bold">Languages/Frameworks: {item.technologies}</p>
               {/* <button>Installation Info</button> */}
-
+              <br />
               {/* <button type="button" className="text-white bg-gradient-to-r from-blue-700 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 ">Installation Info</button> */}
               <button type="button" className="text-white bg-gradient-to-r from-cyan-400 via-cyan-500 to-cyan-400 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Instructions</button>
 

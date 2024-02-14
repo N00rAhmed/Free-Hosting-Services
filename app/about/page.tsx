@@ -10,7 +10,7 @@ export default function about() {
 
       <div className='about-container'>
         <p className='about-info'>The development of this website started in October 2023. The main purpose of this initiative is to provide a platform for 
-        sharing knowledge and resources related to hosting web development projects, servers, API's, SQL/NOSQL databases at no cost. 
+        sharing knowledge and resources related to hosting web development projects, servers, API&apos;s, SQL/NOSQL databases at no cost. 
 
             </p>
       </div>

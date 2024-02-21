@@ -7,9 +7,9 @@
     },
     {
         "title": "Vercel",
-        "content": "Developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure. It is a popular choice for its user-friendly interface and seamless integration with version control systems, making the deployment process straightforward for developers.",
+        "content": "Developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure.",
         "link": "https://vercel.com",
-        "technologies": "Next.js"
+        "technologies": "HTML/CSS, JavaScript, React.js, View.js, Next.js"
 
     },
     {
@@ -26,9 +26,9 @@
     },
     {
         "title": "Supabase",
-        "content": "Supabase is an open-source backend platform designed to simplify the development of web and mobile applications. It offers a range of services, including a real-time database, authentication, and serverless functions. Developers can leverage Supabase to build scalable and secure applications without managing complex backend infrastructure. The platform supports PostgreSQL, allowing for powerful relational database capabilities.",
+        "content": "Supabase is an open-source backend platform designed to simplify the development of web and mobile applications. It offers a range of services, including a real-time database, authentication, and serverless functions.",
         "link": "",
-        "technologies": "SQL"
+        "technologies": "SQL, Postgress"
     },
     {
         "title": "CockroachDB",

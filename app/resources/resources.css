@@ -27,7 +27,11 @@ li {
     color: white;
     padding: 1rem;
     border-radius: 5%;
-    height: 30rem;
+    /* height: 30rem; */
+    height: 450px;
+    padding-top: 50px;
+    /* padding-left: 20px; */
+    width: 380px;
     /* height: 4rem; */
     /* later on set a specific height */
   }

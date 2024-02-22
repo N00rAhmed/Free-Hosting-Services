@@ -1,6 +1,3 @@
-body{
-  /* background-color: rgb(28, 177, 180); */
-}
 
 .resource-container{
     display: flex;
@@ -13,27 +10,23 @@ body{
 }
 
 
-.resource-info{
+/* .resource-info{
   margin-top:35px;
 }
 
 a{
   font-size: 23px;
-}
+} */
 
 li {
-    /* text-align: center; */
     background-color: dodgerblue;
     color: white;
     padding: 1rem;
     border-radius: 5%;
-    /* height: 30rem; */
     height: 450px;
     padding-top: 50px;
-    /* padding-left: 20px; */
     width: 380px;
     /* height: 4rem; */
-    /* later on set a specific height */
   }
   
  ul {
@@ -42,10 +35,6 @@ li {
     display: grid;
     gap: 1rem;
   }
-
-  /* ul{
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  } */
 
   @media (min-width: 600px) {
     ul { 

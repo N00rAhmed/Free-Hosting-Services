@@ -15,6 +15,8 @@ export default async function page() {
           There will be free Client side hosting services as well as free server side + database hosting services.</p>
       </div>
 
+      <br />
+
       <div className='resource-info'>
 {/* dark:bg-gray-700 */}
         <div className="flex items-center justify-center pb-10">

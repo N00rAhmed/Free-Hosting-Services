@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Navbar/>
-      <h1 className="text-lg font-semibold">Free Hosting Services for devs </h1>
+      <h1 className="font-bold text-2xl">Free Hosting Services for devs </h1>
       <br/>
 
 {/* for tailwind make sure to use single quotoations */}
@@ -15,10 +15,10 @@ export default function Home() {
     </h1> */}
 
       <div className='intro-container'>
-        <p className='intro'>Welcome to Free Hosting Services for Devs!!!!!!
+        <strong className='intro'>Welcome to Free Hosting Services for Devs!!!!!!
           Here you will find hosting services without any cost. 
           Whether you&apos;re a seasoned coder or just starting out, our platform provides reliable, secure, and free hosting services. 
-          Elevate your creations with our £0 hosting services today!</p>
+          Elevate your creations with our £0 hosting services today!</strong>
       </div>
 
       {/* <Link className='button-container' href='/about'><button>About us</button></Link> */}

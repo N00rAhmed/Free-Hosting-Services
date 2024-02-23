@@ -8,7 +8,7 @@ export default async function page() {
     <div>
       <Navbar/>
 
-      <h1 className="text-lg font-semibold">Free Hosting Services</h1>
+      <h1 className="font-bold text-3xl">Free Hosting Services</h1>
 
       <div className='resource-container'>
         <p className='info'>This page will contain all of the free hosting resources as well as information about them and maybe also how to use certain resources. 
@@ -27,7 +27,7 @@ export default async function page() {
             {/* <h3>make sure to check these sites work and are free </h3> */}
             {data.map((item, index) => (
             <li className="transition duration-500 hover:scale-105" key={index}>
-              <a className="hover:text-blue-900" href={item.link} target="_blank"><strong>{item.title}</strong></a>
+              <a className="hover:text-blue-900 font-extrabold text-xl" href={item.link} target="_blank"><strong>{item.title}</strong></a>
               <br />
               <br />
               <p className="text-justify">{item.content}</p>

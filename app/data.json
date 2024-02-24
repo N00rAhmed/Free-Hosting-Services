@@ -38,7 +38,7 @@
     },
     {
         "title": "MongoDB Atlas",
-        "content": "In summary, MongoDB Atlas is a fully managed, cloud-native database service that simplifies the deployment, scaling, and management of MongoDB databases. It combines flexibility, high availability, security, and compatibility with the MongoDB ecosystem to meet the demands of modern, data-intensive applications.",
+        "content": "In summary, MongoDB Atlas is a fully managed, cloud-native database service that simplifies the deployment, scaling, and management of MongoDB databases.",
         "link": "",
         "technologies": "NOSQL"
     },

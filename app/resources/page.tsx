@@ -1,8 +1,28 @@
+"use client";
+
 import Navbar from '@/app/navbar/page';
 import '../resources/resources.css';
 import data from '../data.json';
+import { useState, useEffect } from 'react';
 
-export default async function page() {
+
+export default function page() {
+
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filteredData, setFilteredData] = useState(data)
+
+  useEffect(() => {
+    const filteredData = () => {
+      const filtered = data.filter((item) =>
+        item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        item.technologies.toLowerCase().includes(searchTerm.toLowerCase())
+
+      );
+      setFilteredData(filtered);
+    }
+    filteredData();
+  }, [searchTerm]);
+
 
   return (
     <div>
@@ -20,12 +40,20 @@ export default async function page() {
       <div className='resource-info'>
 {/* dark:bg-gray-700 */}
         <div className="flex items-center justify-center pb-10">
-          <input className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-1/2 p-2.5  dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" type="text" id="search" name="search" placeholder="Search for a resource..." />
+          <input
+            className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-1/2 p-2.5  dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500"
+            type="text"
+            id="search"
+            name="search"
+            placeholder="Search for a resource..."
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+          />
         </div>
         
         <ul>
             {/* <h3>make sure to check these sites work and are free </h3> */}
-            {data.map((item, index) => (
+            {filteredData.map((item, index) => (
             <li className="transition duration-500 hover:scale-105" key={index}>
               <a className="hover:text-blue-900 font-extrabold text-xl" href={item.link} target="_blank"><strong>{item.title}</strong></a>
               <br />

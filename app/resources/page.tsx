@@ -3,6 +3,7 @@
 import Navbar from '@/app/navbar/page';
 import '../resources/resources.css';
 import data from '../data.json';
+import Footer from '../footer/page';
 import { useState, useEffect } from 'react';
 
 
@@ -82,7 +83,7 @@ export default function Page() {
 
       </div>
 
-
+    <Footer />
     </div>
   )
 }

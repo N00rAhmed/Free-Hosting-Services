@@ -6,7 +6,7 @@ import data from '../data.json';
 import { useState, useEffect } from 'react';
 
 
-export default function page() {
+export default function Page() {
 
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredData, setFilteredData] = useState(data)

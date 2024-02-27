@@ -1,5 +1,6 @@
 import Navbar from '@/app/navbar/page';
 import '../about/about.css';
+import Footer from '../footer/page';
 
 export default function about() {
   return (
@@ -14,7 +15,8 @@ export default function about() {
 
             </strong>
       </div>
-
+      
+      <Footer />
     </div>
   )
 }

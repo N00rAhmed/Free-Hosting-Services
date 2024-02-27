@@ -7,7 +7,6 @@ export default function Navbar() {
         <Link className="card" href='/'><p>Home</p></Link>
         <Link className="card" href='/about'><p>About</p></Link>
         <Link className="card" href='/resources'><p>Resources</p></Link>
-
     </div>
   )
 }

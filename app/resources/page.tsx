@@ -3,6 +3,7 @@ import Navbar from '@/app/navbar/page';
 import '../resources/resources.css';
 import data from '../data.json';
 import Footer from '../footer/page';
+import ArticleIcon from '@mui/icons-material/Article';
 import { useState, useEffect } from 'react';
 
 
@@ -64,6 +65,8 @@ export default function Page() {
                 className="text-white bg-gradient-to-r from-cyan-400 via-cyan-500 to-cyan-400 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800  font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
                 Instructions
               </button>
+
+              <ArticleIcon />
 
                 {/* create a page which will give instructions on how to use the service. Do this by creating id value in data.json 
                 and also create new json file which will render hosting instructions (add id value in the new json file aswell) 

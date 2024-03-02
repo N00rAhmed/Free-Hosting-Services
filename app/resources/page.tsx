@@ -68,9 +68,6 @@ export default function Page() {
 
               <ArticleIcon />
 
-                {/* create a page which will give instructions on how to use the service. Do this by creating id value in data.json 
-                and also create new json file which will render hosting instructions (add id value in the new json file aswell) 
-                maybe use material ui icon for clicking to see instruction instead of button. Title will be clickable to redirect to hosting service */}
           </li>
           ))}
 

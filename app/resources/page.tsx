@@ -29,7 +29,7 @@ export default function Page() {
     <div>
       <Navbar/>
 
-      <h1 className="font-bold text-3xl">Free Hosting Services</h1>
+      <h1 className="font-bold text-3xl">Free Hosting Resources</h1>
 
       <br />
 

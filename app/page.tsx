@@ -11,7 +11,7 @@ export default function Home() {
       <br/>
 
       <div className='intro-container'>
-        <strong className='intro'>Welcome to Free Hosting Services for Devs!!!!!!
+        <strong className='intro'>Welcome to Free Hosting Services for Devs
           Here you will find hosting services without any cost. 
           Whether you&apos;re a seasoned coder or just starting out, our platform provides reliable, secure, and free hosting services. 
           Elevate your creations with our £0 hosting services today!</strong>

@@ -7,7 +7,7 @@
     },
     {
         "title": "Vercel",
-        "content": "Developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure.",
+        "content": "On Vercel developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure.",
         "link": "https://vercel.com",
         "technologies": "HTML/CSS, JavaScript, React.js, View.js, Next.js"
 

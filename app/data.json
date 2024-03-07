@@ -1,11 +1,13 @@
   [
     {
+        "id": 1,
         "title": "Netlify",
         "content": "Netlify allows you to deploy your web apps using github and npm run build commands. The hosting provider is gives free hosting for client side applications but not server side.",
         "link": "https://www.netlify.com",
         "technologies": "HTML/CSS, React.js, Next.js, View.js"
     },
     {
+        "id": 2,
         "title": "Vercel",
         "content": "On Vercel developers can easily deploy web applications written in various languages and frameworks, and Vercel's serverless architecture eliminates the need for managing infrastructure.",
         "link": "https://vercel.com",

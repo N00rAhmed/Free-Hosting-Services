@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "heading": "titles heading for netlify",
+        "subheading": "subheading for instrctions for netlify",
+        "description": "description of instructions for netlify"
+    },
+    {
+        "id": 2,
+        "heading": "titles heading for Vercel",
+        "subheading": "subheading for instrctions for Vercel",
+        "description": "description of instructions for Vercel"
+    }
+]

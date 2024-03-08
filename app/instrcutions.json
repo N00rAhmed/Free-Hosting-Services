@@ -2,13 +2,30 @@
     {
         "id": 1,
         "heading": "titles heading for netlify",
+        "introduction":"this is the introduction text for the hosting sservice.",
         "subheading": "subheading for instrctions for netlify",
         "description": "description of instructions for netlify"
     },
     {
         "id": 2,
         "heading": "titles heading for Vercel",
+        "introduction":"this is the introduction text for the hosting sservice.",
         "subheading": "subheading for instrctions for Vercel",
         "description": "description of instructions for Vercel"
+    },
+    {
+        "id": 3,
+        "heading": "titles heading for Render.com",
+        "introduction":"this is the introduction text for the hosting sservice.",
+        "subheading": "subheading for instrctions for Render.com",
+        "description": "description of instructions for Render.com"
+    },
+    {
+        "id": 4,
+        "heading": "titles heading for GitHub Pages",
+        "introduction":"this is the introduction text for the hosting sservice.",
+        "subheading": "subheading for instrctions for GitHub Pages",
+        "description": "description of instructions for GitHub Pages"
     }
+
 ]

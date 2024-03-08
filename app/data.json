@@ -15,12 +15,14 @@
 
     },
     {
+        "id": 3,
         "title": "Render.com",
         "content": "Render is a cloud platform offering easy and cost-effective deployment solutions for web applications, backend services, and databases.",
         "link": "https://render.com",
         "technologies": "Node.js/Express.js"
     },
     {
+        "id": 4,
         "title": "GitHub Pages",
         "content": "GitHub Pages is a web hosting service integrated with GitHub, allowing users to host static websites directly from their GitHub repositories. It supports HTML, CSS, and JavaScript, making it suitable for showcasing projects, documentation, or personal websites.",
         "link": "",

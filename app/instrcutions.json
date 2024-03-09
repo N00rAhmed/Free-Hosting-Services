@@ -26,6 +26,14 @@
         "introduction":"this is the introduction text for the hosting sservice.",
         "subheading": "subheading for instrctions for GitHub Pages",
         "description": "description of instructions for GitHub Pages"
+    },
+    {
+        "id": 5,
+        "heading": "titles heading for Supabase",
+        "introduction":"this is the introduction text for the hosting sservice.",
+        "subheading": "subheading for instrctions for Supabase",
+        "description": "description of instructions for Supabase"
     }
+
 
 ]

@@ -33,7 +33,15 @@
         "introduction":"this is the introduction text for the hosting sservice.",
         "subheading": "subheading for instrctions for Supabase",
         "description": "description of instructions for Supabase"
+    },
+    {
+        "id": 6,
+        "heading": "titles heading for CockroachDB",
+        "introduction":"this is the introduction text for the hosting sservice.",
+        "subheading": "subheading for instrctions for CockroachDB",
+        "description": "description of instructions for CockroachDB"
     }
+
 
 
 ]

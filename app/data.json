@@ -36,6 +36,7 @@
         "technologies": "SQL, Postgress"
     },
     {
+        "id": 6,
         "title": "CockroachDB",
         "content": "CockroachDB is a distributed SQL database designed for scalability, consistency, and resilience. CockroachDB is compatible with the SQL language, making it familiar to developers who are already accustomed to relational databases. ",
         "link": "https://www.cockroachlabs.com",

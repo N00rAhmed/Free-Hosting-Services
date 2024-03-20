@@ -318,6 +318,13 @@
         "content": "This is a python package which allows you to convert your program into a single executable file for people to use.",
         "link": "https://www.youtube.com/watch?v=bqNvkAfTvIc",
         "technologies": "Python"
+    },
+    {
+        "title": "Zeet",
+        "content": "This hosting resource allows you to deploy 3 projects for free. This allows you to deploy your python flask web applications.",
+        "link": "https://zeet.co",
+        "technologies": "Python, Flask, "
     }
+
 
 ]

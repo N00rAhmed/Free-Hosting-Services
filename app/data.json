@@ -284,12 +284,6 @@
         "technologies": ""
     },
     {
-        "title": "https://fly.io",
-        "content": "Fly.io is a global edge computing platform enabling developers to deploy and run applications across a distributed network of servers, optimizing performance and providing features like automatic scaling and global load balancing.",
-        "link": "https://fly.io",
-        "technologies": "Python, Laravel, Next.js, Ruby, .NET, Nuxt, JavaScript, Django"
-    },
-    {
         "title": "Turso",
         "content": "Turso is a free sql database hosting platform which provides free hosting for 500 databases. This includes SQLITE, MSSQL etc.",
         "link": "https://turso.tech/",

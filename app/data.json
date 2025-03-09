@@ -312,7 +312,19 @@
         "content": "This hosting resource allows you to deploy 3 projects for free. This allows you to deploy your python flask web applications.",
         "link": "https://zeet.co",
         "technologies": "Python, Flask, "
+    },
+    {
+        "title": "Cassandra DB",
+        "content": "Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance.",
+        "link": "https://cassandra.apache.org/_/index.html",
+        "technologies": "NOSQL"
+    },
+    {
+        "title": "ScyllaDB",
+        "content": "ScyllaDB is an source-available distributed NoSQL wide-column data store. It was designed to be compatible with Apache Cassandra while achieving significantly higher throughputs and lower latencies.",
+        "link": "https://www.scylladb.com",
+        "technologies": "NOSQL"
     }
-
+    
 
 ]

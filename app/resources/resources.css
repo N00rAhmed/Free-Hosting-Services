@@ -1,49 +1,10 @@
-
-.resource-container{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    margin-top: 25px;
+/* You can keep only what's necessary */
+.resource-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 25px;
 }
-.info{
-    width: 55%;
+.info {
+  width: 55%;
 }
-
-
-/* .resource-info{
-  margin-top:35px;
-}
-
-a{
-  font-size: 23px;
-} */
-
-li {
-    background-color: dodgerblue;
-    color: white;
-    padding: 1rem;
-    border-radius: 5%;
-    height: 450px;
-    padding-top: 50px;
-    width: 380px;
-    /* height: 4rem; */
-  }
-  
- ul {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    gap: 1rem;
-  }
-
-  @media (min-width: 600px) {
-    ul { 
-      grid-template-columns: repeat(2, 1fr); 
-    }
-  }
-  @media (min-width: 900px) {
-    ul { 
-      grid-template-columns: repeat(3, 1fr); 
-    }
-  }
-  

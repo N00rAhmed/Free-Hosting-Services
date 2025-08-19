@@ -2,53 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-  /* background-color: #061629; */
+body {
+  @apply bg-slate-900 text-gray-100;
 }
 
-
-h1{
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
+h1 {
+  @apply flex justify-center mt-8;
 }
-/* .container{
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  background-color: bisque;
-} */
-/* .intro-container{
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  align-items: center;
-  width: 60%;
-  text-align: center;
-
-  background-color: aqua;
-} */
-
-.intro-container{
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-.intro{
-  width: 60%;
-}
-
-.button-container{
-  display: flex;
-  justify-content: center;
-
-  padding-top: 20px;
-}
-
-/* p{
-  width: 60%;
-  align-items: center;
-  text-align: center;
-} */
-

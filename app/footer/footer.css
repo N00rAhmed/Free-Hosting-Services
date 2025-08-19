@@ -1,8 +1,26 @@
-
 .footer {
-    padding-top: 40px;
-    text-align: center;
-    background-color: rgb(33, 33, 149);
-    height: 100px;
-    color: antiquewhite;
+  background-color: #0f172a; /* same as site background (slate-900) */
+  border-top: 1px solid #1e293b; /* subtle separator */
+  color: #e5e7eb; /* gray-200 */
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  font-size: 0.95rem;
+}
+
+.footer-text {
+  margin: 0;
+  font-weight: 500;
+  color: #cbd5e1; /* gray-300 */
+}
+
+.highlight {
+  color: #22d3ee; /* cyan accent to match theme */
+  font-weight: 600;
+}
+
+.footer-copy {
+  margin: 0.5rem 0 0;
+  font-size: 0.85rem;
+  color: #94a3b8; /* gray-400 */
 }

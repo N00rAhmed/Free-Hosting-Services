@@ -1,23 +1,14 @@
-
 import './footer.css';
 
-function page() {
-
-    const currentYear = new Date().getFullYear();
-
+export default function Footer() {
+  const currentYear = new Date().getFullYear();
 
   return (
-    <div>
-        <br />
-        <div className='footer'>
-        
-            <p>Built and designed by Noor Ahmed</p>
-            <p className="font-semibold">&copy; {currentYear} All Rights Reserved</p>
-
-        </div>
-
-    </div>
-  )
+    <footer className="footer">
+      <p className="footer-text">
+        🚀 Built and designed by <span className="highlight">Noor Ahmed</span>
+      </p>
+      <p className="footer-copy">&copy; {currentYear} All Rights Reserved</p>
+    </footer>
+  );
 }
-
-export default page

@@ -6,9 +6,12 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p className="footer-text">
-        🚀 Built and designed by <span className="highlight">Noor Ahmed</span>
+        {/* https://github.com/N00rAhmed */}
+        🚀 Built and designed by <span className="highlight">
+          <a className='anchorname' href='https://github.com/N00rAhmed' target='_blank'>Noor Ahmed</a></span>
       </p>
       <p className="footer-copy">&copy; {currentYear} All Rights Reserved</p>
     </footer>
+    
   );
 }

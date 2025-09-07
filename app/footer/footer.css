@@ -15,8 +15,17 @@
 }
 
 .highlight {
-  color: #22d3ee; /* cyan accent to match theme */
+  color: #22d3ee;
   font-weight: 600;
+}
+.anchorname {
+  text-decoration: none; /* default (no underline) */
+  color: inherit; /* keeps normal text color */
+}
+
+.anchorname:hover {
+  color: #1e90ff; /* pick any hover color */
+  text-decoration: underline; /* adds underline on hover */
 }
 
 .footer-copy {

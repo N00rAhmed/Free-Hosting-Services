@@ -324,7 +324,13 @@
         "content": "ScyllaDB is an source-available distributed NoSQL wide-column data store. It was designed to be compatible with Apache Cassandra while achieving significantly higher throughputs and lower latencies.",
         "link": "https://www.scylladb.com",
         "technologies": "NOSQL"
+    },
+    {
+        "title": "Apache CouchDB",
+        "content": "Apache CouchDB is an open-source NoSQL database, implemented in Erlang. CouchDB uses multiple formats and protocols to process its data. It uses JSON to store data, JavaScript as its query language using MapReduce, and HTTP for an API.",
+        "link": "https://couchdb.apache.org",
+        "technologies": "NOSQL"
     }
-    
+
 
 ]
